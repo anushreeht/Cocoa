@@ -1,0 +1,11 @@
+path: D:/projectrcn/dataset
+
+train: images/train
+val: images/val
+test: images/test
+
+names:
+  0: Unripe
+  1: Semiripe
+  2: Ripe
+  3: Overripe
